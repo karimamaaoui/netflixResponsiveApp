@@ -1,20 +1,40 @@
 {
   "files": {
     "main.css": "/netflixResponsiveApp/static/css/main.56985384.css",
-    "main.js": "/netflixResponsiveApp/static/js/main.b3ff0652.js",
+    "main.js": "/netflixResponsiveApp/static/js/main.c93ff49f.js",
     "static/js/787.f13924a5.chunk.js": "/netflixResponsiveApp/static/js/787.f13924a5.chunk.js",
+    "static/media/pride.mp4": "/netflixResponsiveApp/static/media/pride.a5f78a4fb0d82dcef42a.mp4",
+    "static/media/home2.jpg": "/netflixResponsiveApp/static/media/home2.fe6edcbd61cbadf61c9f.jpg",
+    "static/media/u3.jpg": "/netflixResponsiveApp/static/media/u3.0de09d3d1730bf16f0c8.jpg",
+    "static/media/rec2.jpg": "/netflixResponsiveApp/static/media/rec2.37d76aa622ef3f81b650.jpg",
+    "static/media/rec4.jpg": "/netflixResponsiveApp/static/media/rec4.90b242fe97d9eee6d8b3.jpg",
+    "static/media/home4.jpg": "/netflixResponsiveApp/static/media/home4.b2f6df250ac666421449.jpg",
+    "static/media/u2.jpg": "/netflixResponsiveApp/static/media/u2.b2f6df250ac666421449.jpg",
+    "static/media/u4.jpg": "/netflixResponsiveApp/static/media/u4.871b9c0da313cdce908a.jpg",
+    "static/media/rec1.jpg": "/netflixResponsiveApp/static/media/rec1.68b0551220911e2aeff2.jpg",
+    "static/media/u5.jpg": "/netflixResponsiveApp/static/media/u5.ff803245112bf5b4ab9a.jpg",
+    "static/media/rec3.jpg": "/netflixResponsiveApp/static/media/rec3.0b04dc01f8f26faf2aea.jpg",
+    "static/media/home3.jpg": "/netflixResponsiveApp/static/media/home3.6e076684a537f3f65ac8.jpg",
+    "static/media/slide3.jpg": "/netflixResponsiveApp/static/media/slide3.20563ccf66cbb98ca2b5.jpg",
+    "static/media/u1.jpg": "/netflixResponsiveApp/static/media/u1.8d90ddf64eb87e45e7d8.jpg",
+    "static/media/slide1.png": "/netflixResponsiveApp/static/media/slide1.dd1c68307d732b1bc2ab.png",
+    "static/media/u7.jpg": "/netflixResponsiveApp/static/media/u7.b31a85cf1edc460be500.jpg",
     "static/media/texure.jpg": "/netflixResponsiveApp/static/media/texure.5fd81b0ea718d21dec89.jpg",
+    "static/media/u6.png": "/netflixResponsiveApp/static/media/u6.1fc9880e7b333211885c.png",
+    "static/media/play.png": "/netflixResponsiveApp/static/media/play.325e2c778f64f1f859e0.png",
+    "static/media/play-button.png": "/netflixResponsiveApp/static/media/play-button.03b463e6a9c5af13367f.png",
+    "static/media/home1.png": "/netflixResponsiveApp/static/media/home1.65a9f6609a10652d24d5.png",
     "static/media/slick.svg": "/netflixResponsiveApp/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/netflixResponsiveApp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/netflixResponsiveApp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/netflixResponsiveApp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/netflixResponsiveApp/index.html",
     "main.56985384.css.map": "/netflixResponsiveApp/static/css/main.56985384.css.map",
-    "main.b3ff0652.js.map": "/netflixResponsiveApp/static/js/main.b3ff0652.js.map",
+    "main.c93ff49f.js.map": "/netflixResponsiveApp/static/js/main.c93ff49f.js.map",
     "787.f13924a5.chunk.js.map": "/netflixResponsiveApp/static/js/787.f13924a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56985384.css",
-    "static/js/main.b3ff0652.js"
+    "static/js/main.c93ff49f.js"
   ]
 }
