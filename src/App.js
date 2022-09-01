@@ -10,7 +10,6 @@ function App() {
     <>
     <Header/>
        <Router>
-
       <Routes>
         
       <Route path="/netflixResponsiveApp/" element={<HomePage />} />
