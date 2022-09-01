@@ -1,5 +1,8 @@
 import React from "react"
 import { Link } from "react-router-dom"
+import play from "../../assets/play-button.png"
+
+import play2 from "../../assets/play.png"
 
 const HomeCard = ({ item: { id, cover, name, rating, time, desc, starring, genres, tags, video } }) => {
   return (
@@ -46,8 +49,8 @@ const HomeCard = ({ item: { id, cover, name, rating, time, desc, starring, genre
             <Link to={`/netflixResponsiveApp/singlepage/${id}`}>
               <button>
                 <div className='img'>
-                  <img src='../../play-button.png' alt='' />
-                  <img src='../../play.png' className='change' />
+                  <img src={play} alt='' />
+                  <img src={play2} className='change' />
                 </div>
                 WATCH TRAILER
               </button>
