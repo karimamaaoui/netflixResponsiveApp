@@ -43,7 +43,7 @@ const HomeCard = ({ item: { id, cover, name, rating, time, desc, starring, genre
             </button>
           </div>
           <div className='palyButton row'>
-            <Link to={`/singlepage/${id}`}>
+            <Link to={`/netflixResponsiveApp/singlepage/${id}`}>
               <button>
                 <div className='img'>
                   <img src='../../play-button.png' alt='' />
