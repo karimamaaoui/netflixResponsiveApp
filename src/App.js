@@ -8,7 +8,6 @@ import HomePage from "./home/homePage"
 function App() {
   return (
     <>
-    
     <Header/>
        <Router>
 

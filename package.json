@@ -2,7 +2,7 @@
   "name": "netflixappresponsive",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://karimamaaoui.github.io/netflixResponsiveApp",
+  "homepage": "https://karimamaaoui.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
