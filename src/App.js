@@ -10,9 +10,7 @@ function App() {
     <>
     <Header/>
        <Router>
-
       <Routes>
-        
       <Route path="/" element={<HomePage />} />
       <Route path='/singlepage/:id' element={<SinglePage />}  />
 
